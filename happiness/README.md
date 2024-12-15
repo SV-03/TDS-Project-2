@@ -52,6 +52,6 @@ The findings point to overarching trends that suggest an intricate relationship 
 The insights gleaned from this analysis can aid governments, NGOs, and policymakers in creating environments conducive to improved happiness, potentially resulting in greater societal stability and productivity.
 
 ![correlation_heatmap.png](correlation_heatmap.png)
-![Life Ladder_distribution.png](happiness/Life Ladder_distribution.png)
+![Life Ladder_distribution.png](Life_Ladder_distribution.png)
 ![year_distribution.png](year_distribution.png)
-![Log GDP per capita_distribution.png](png)
+![Log GDP per capita_distribution.png](Log_GDP_per_capita_distribution.png)
